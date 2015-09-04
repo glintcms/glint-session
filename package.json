@@ -1,0 +1,28 @@
+{
+  "name": "glint-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "browser": "DO NOT require this module in the browser",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andi Neck",
+  "license": "MIT",
+  "dependencies": {
+    "express-session": "^1.10.4",
+    "session-glint": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glintcms/glint-session.git"
+  },
+  "bugs": {
+    "url": "https://github.com/glintcms/glint-session/issues"
+  },
+  "homepage": "https://github.com/glintcms/glint-session",
+  "keywords": [
+    "glint",
+    "session"
+  ]
+}
