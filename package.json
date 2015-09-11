@@ -10,8 +10,10 @@
   "author": "Andi Neck",
   "license": "MIT",
   "dependencies": {
+    "debug": "^2.2.0",
     "express-session": "^1.10.4",
-    "session-glint": "^1.0.0"
+    "session-glint": "^1.0.0",
+    "utils-merge": "^1.0.0"
   },
   "repository": {
     "type": "git",
