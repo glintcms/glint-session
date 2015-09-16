@@ -1,6 +1,6 @@
+var debug = require('debug')('glint-session');
 var session = require('express-session');
 var merge = require('utils-merge');
-var debug = require('debug')('glint:session');
 var GlintStore = require('session-glint')(session);
 var c = require('./config');
 
